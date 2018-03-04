@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MyCV</string>
+    <string name="name">Sean William Evans</string>
+    <string name="firstName">Sean</string>
+    <string name="middleName">William</string>
+    <string name="lastName">Evans</string>
+    <string-array name="address">
+        <item name="number">134</item>
+        <item name="street">Crescent Lane</item>
+        <item name="city">Roslyn Heights</item>
+        <item name="state">New York</item>
+        <item name="zip">11577</item>
+    </string-array>
+
+    <string name="address">134 Crescent Lane, Roslyn Heights, NY, 11577</string>
+    <string name="cell">1.516.330.2517</string>
+    <string name="cell_raw">15163302517</string>
+    <string name="email">Sean.W.Evans@gmail.com</string>
+    <string name="education">Education</string>
+    <string name="awards">Awards</string>
+    <string name="work">Work Experience</string>
+    <string name="skills">Skills</string>
+    <string name="affiliations">Affiliations</string>
+    <string name="interests">Interests</string>
+    <string name="references">References</string>
+    <string name="download">Download CV as...</string>
+    <string name="college">Long Island University</string>
+    <string name="datesattended">2014 – 2017</string>
+    <string name="degreetype">Bachelor of Science</string>
+    <string name="degreeconc">Mathematics</string>
+    <string name="degreeaward">Magna Cum Laude</string>
+    <string name="majorgpa">Major GPA: 4.0</string>
+    <string name="overallgpa">Overall GPA: 3.88</string>
+    <string name="back">Back</string>
+</resources>
